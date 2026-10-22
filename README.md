@@ -1,8 +1,7 @@
 ## Global Local Climate Zone Mapper
 
 ### 1. Project Summary
-Rapid urbanization and climate change have intensified the Urban Heat Island (UHI) effect
-- where built-up areas experience significantly higher temperatures than rural surroundings.
+Rapid urbanization and climate change have intensified the Urban Heat Island (UHI) effect - where built-up areas experience significantly higher temperatures than rural surroundings.
 Standard satellite maps simply label areas as ”urban” or ”natural,” ignoring critical differences
 in building height, density, and greenery.
 This project delivers a Deep Learning Analytics Pipeline using TorchGeo that converts raw
@@ -32,9 +31,9 @@ varying global architectural styles.
 coded thematic maps that integrate directly into Geographic Information Systems (GIS)
 used by urban planning departments.
 ### 4. Key Real-World Applications
-• Urban Heat Island Mitigation: Identifies specific neighborhoods vulnerable to heat
+- Urban Heat Island Mitigation: Identifies specific neighborhoods vulnerable to heat
 stress to prioritize tree-planting initiatives and cool-roof installations.
-• Energy Grid Forecasting: Predicts localized surge demands for summer air condition-
+- Energy Grid Forecasting: Predicts localized surge demands for summer air condition-
 ing across high-density residential zones.
-• Climate Policy & City Planning: Provides an automated, repeatable tool for city
+- Climate Policy & City Planning: Provides an automated, repeatable tool for city
 councils to measure urban density changes over time without manual field surveys.
